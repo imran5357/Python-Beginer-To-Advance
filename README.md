@@ -1,2 +1,6 @@
-# Python-Beginer-To-Advance
-Python Beginer To Advance
+# Python Comments:
+Single Line Comments: # that is single line comment
+Multiline Comments: """ That is
+                        multiline
+                        comments"""
+
