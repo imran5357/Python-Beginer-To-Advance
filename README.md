@@ -1,7 +1,7 @@
 # Python Comments:
   <pre>
-  Single Line Comments: # that is single line comment
-  Multiline Comments: """ That is
+  <b>Single Line Comments:</b> # that is single line comment
+  <b>Multiline Comments:</b> """ That is
                           multiline
                           comments"""
   </pre>
