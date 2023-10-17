@@ -1,8 +1,8 @@
 # Python Comments:
-<pre>
-Single Line Comments: # that is single line comment
-Multiline Comments: """ That is
-                        multiline
-                        comments"""
-</pre>
+  <pre>
+  Single Line Comments: # that is single line comment
+  Multiline Comments: """ That is
+                          multiline
+                          comments"""
+  </pre>
 
