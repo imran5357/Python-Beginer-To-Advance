@@ -21,11 +21,26 @@
 
   # Python List:
   <pre>
+    Empty List
+    ----------------------
     list = []
     print(list)
 
+    Update List
+    ------------------------
     list = [1,2,3]
     list[0] = 6
     print(list)
-    
+
+    Addition List
+    ------------------------
+    list1 = [1,2,3]
+    list3 = [1,2,3]
+    r_list = list1+list3
+    print(r_list)
+
+    Multiply List
+    ------------------------
+    list = [1,2,3]
+    print(list*3)
   </pre>
