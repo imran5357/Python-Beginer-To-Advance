@@ -17,3 +17,15 @@
     Binary Types:	bytes, bytearray, memoryview
     None Type:	NoneType    
   </pre>
+
+
+  # Python List:
+  <pre>
+    list = []
+    print(list)
+
+    list = [1,2,3]
+    list[0] = 6
+    print(list)
+    
+  </pre>
